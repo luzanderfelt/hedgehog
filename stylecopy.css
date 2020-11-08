@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    font-family: Helvetica;
+}
+
+ 
+  
+/* Add a black background color to the top navigation */
+  nav {
+    background-color: none;
+   
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  } 
+  
+  /* Style the links inside the navigation bar */
+  a {
+    float: right;
+    color: aliceblue;
+    text-align: center;
+    padding: 22px 24px;
+    text-decoration: none;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+  }
+  
+  /* Change the color of links on hover */
+    a:hover {
+    background-color: rgb(136, 231, 175);
+    color: rgb(16, 17, 17);
+    margin: 10px 10px;
+    border-radius: 8px;
+    text-decoration: none;
+  }
+    header .hero-container {
+      background-image: url("images1/worldview2.jpg");
+      background-repeat: no-repeat;
+      background-position: center center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      height: 700px;
+      background-size: 50% 50% / cover;
+
+  }
+
+  
+  .hero-container {
+    text-align: center;
+    padding-top: 150px;
+  }
+  .button, .button-contact {
+    display: inline-block;
+    padding: 10px 25px;
+    font-family: Helvetica;
+    font-size: large;
+    letter-spacing: 0.15em;
+    color: aliceblue;
+    margin: 15px 10px;
+    border-radius: 8px;
+    text-decoration: none;
+
+  
+  }
+  .button {
+    background-color:  rgb(160, 194, 108);
+    float: right;
+  }
+  
+  .button-contact {
+    background-color:  rgb(212, 126, 186);
+  }
+  
+  .button:hover {
+    background-color: aliceblue;
+    color: rgb(212, 126, 186);
+    transition: all 0.5s ease;
+  }
+  .button-contact:hover {
+    background-color: aliceblue;
+    color:  rgb(160, 194, 108);
+    transition: all 0.5s ease;
+    
+  }
+  
+
+  header h1 {
+    margin-top: 150px;
+    font-family:  Helvetica;
+    font-size:  50px;
+    font-style: normal;
+    font-weight: 100;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(240, 233, 233);
+    letter-spacing: 0.2em;
+    text-transform: uppercase
+  }
+
+  header h2 {
+    font-family:  Helvetica;
+    font-size:  25px;
+    font-style: normal;
+    font-weight: 100;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    word-spacing: 0.1em;
+    color: rgb(240, 233, 233);
+    letter-spacing: 00.1em;
+    word-spacing: 00.05em; 
+  }
+
+.container p {
+    font-family:  Helvetica;
+    font-size:  16px;
+    font-style: normal;
+    font-weight: 100;
+    text-align: justify;
+    text-decoration: none;
+    color: rgb(240, 233, 233);
+    margin-left: 100px;
+    letter-spacing: 00.08em;
+    word-spacing: 00.02em;
+    line-height: 20px; 
+  }
+
+  h3 {
+    font-family:  Helvetica;
+    font-size:  22px;
+    font-style: normal;
+    font-weight: 100;
+    text-align: left;
+    text-decoration: none;
+    color: rgb(240, 233, 233); 
+    margin-top: 35px;
+    margin-left: 60px;
+    text-indent: 40px;
+    letter-spacing: 00.1em;
+    word-spacing: 00.05em; 
+
+  }
+  .container {
+    background-color:  #22333B;
+    padding: 20px 40px;
+    height: 500px;
+    background-size: 100% / cover;
+    background-repeat: no-repeat;
+  }
+  
+ 
+
+
+
+
+
+
+
+    
+
+
+  
+  

@@ -1,0 +1,99 @@
+body {
+    font-family: Helvetica;
+    margin: 0;
+    background-image: url("images1/closeupgroup.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 1300px;
+    
+    font-size:  18px;
+    font-style: normal;
+    font-weight: 50;
+    text-align: left;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 200px; 
+    
+    
+}
+
+
+nav {
+    background-color: none;
+    overflow: hidden;
+   
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+  
+  /* Style the links inside the navigation bar */
+a {
+    float: right;
+    color: rgb(240, 233, 233);
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 0.1em;
+}
+  /* Change the color of links on hover */
+a:hover {
+    background-color: rgb(136, 231, 175);
+    color: rgb(212, 126, 186);
+    margin: 15px 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+header h2 {
+    font-family:  Helvetica;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 100;
+    text-align: left;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    word-spacing: 0.1em;
+    color:  #ffffff;
+    margin-top: 100px;
+  
+}
+   
+   
+.container {
+    display: flex;
+    background-color: none;
+    flex-direction: column;
+    border-radius: 10px;
+    margin-left: 150px; 
+    line-height: 22px; 
+    width: auto
+  
+}
+
+
+  
+  
+.container p {
+    font-family:  Helvetica;
+    font-size:  18px;
+    font-style: normal;
+    font-weight: 100;
+    text-align: left;
+    letter-spacing: 0.01em;
+    text-decoration: none;
+    color: rgb(240, 233, 233);
+    margin-left: 150px; 
+    line-height: 22px; 
+}
+  
+
